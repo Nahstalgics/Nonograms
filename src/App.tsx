@@ -1,11 +1,16 @@
 import ListGroup from "./components/ListGroup";
 import ShowHeader from "./components/Header";
+import ShowFooter from "./components/Footer";
+import ShowPanel from "./components/GamePanel";
+
 
 function App() {
   return (
     <div>
-      <ListGroup />
-        <ShowHeader />
+      {/* <ListGroup /> */}
+      <ShowHeader />
+      {/* <ShowPanel />
+      <ShowFooter /> */}
     </div>
   );
 }
