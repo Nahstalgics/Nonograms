@@ -5,23 +5,35 @@
 
 .contacts {
   width: 20%;
-  padding: 20px;
+  padding: 10px;
   background-color: #99ad7a;
 }
 
 .aboutme {
   width: 45%;
+  padding: 10px;
 }
 
 .sitelinks {
   width: 35%;
+  padding: 10px;
 }
 
 .copyright {
   background-color: #121212;
+  text-align: center;
+  color: #dcccac;
+  padding-top: 15px;
+  padding-bottom: 2px;
 }
-.separator {
-  background-color: #121212;
-  padding: 0px;
-  margin: ;
+
+.space {
+  background-color: #546b41;
+  padding: 20px;
+  border-radius: 7px;
+}
+
+.contacts img {
+    
+    margin-right: 10px;
 }
