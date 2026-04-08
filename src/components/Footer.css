@@ -1,0 +1,27 @@
+.footer {
+  background-color: #99ad7a;
+  display: flex;
+}
+
+.contacts {
+  width: 20%;
+  padding: 20px;
+  background-color: #99ad7a;
+}
+
+.aboutme {
+  width: 45%;
+}
+
+.sitelinks {
+  width: 35%;
+}
+
+.copyright {
+  background-color: #121212;
+}
+.separator {
+  background-color: #121212;
+  padding: 0px;
+  margin: ;
+}

@@ -9,8 +9,8 @@ function App() {
     <div>
       {/* <ListGroup /> */}
       <ShowHeader />
-      {/* <ShowPanel />
-      <ShowFooter /> */}
+      {/* <ShowPanel /> */}
+      <ShowFooter />
     </div>
   );
 }
